@@ -11,7 +11,7 @@ This is probably the shortest code to implement realtime emotion monitoring.
 
 ## Usage
 ### Initial steps:
-- Git clone this repository Run: `git clone https://github.com/Parameshbaba5/Facial-Emotion-Detection-using-OpenCV-and-Deepface.git`
+- Git clone this repository Run: `https://github.com/Parameshbaba5/Facial-Emotion-Detection.git`
 - Run: `cd Facial-Emotion-Detection-using-OpenCV-and-Deepface`
 1. Install the required dependencies:
    - You can use `pip install -r requirements.txt`
